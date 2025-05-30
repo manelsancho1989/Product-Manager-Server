@@ -1,0 +1,68 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# dotenv environment variables
+.env
+.env.local
+.env.*.local
+
+# Optional npm cache directory
+.npm/
+
+# Coverage directory
+coverage/
+
+# Next.js build output
+.next/
+
+# SvelteKit build output
+.svelte-kit/
+
+# Parcel cache
+.cache/
+
+# Build output
+dist/
+build/
+
+# Dependency directories for monorepos (pnpm workspaces, etc.)
+.pnpm-store/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Optional: Mac OS metadata
+.AppleDouble
+.LSOverride
+
+# Optional: Windows image thumbs
+ehthumbs.db
+
+# Optional: Windows system file
+Desktop.ini
+
+# TypeScript build output
+*.tsbuildinfo
+
+# Optional: testing
+test-results/
+
+# Optional: lockfiles (if using only one package manager!)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
